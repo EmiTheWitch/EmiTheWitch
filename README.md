@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
 
-<h3>⚙️ Automation / Workflows</h3>
+<h3>⚙️ Automation & Workflows</h3>
 <p>
 
   <img src="https://docs.gotohuman.com/img/n8n-logo.png" width="40"/>
@@ -35,9 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
 </p>
 
 <h3>☁️ Cloud</h3>
@@ -46,6 +44,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
 </p>
+
+<h3>📊 Data Science & Analytics</h3>
+<p>
+
+  <!-- Python -->
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width="40"/>
+
+  <!-- Tableau -->
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="40"/>
+  
+  <!-- Power B.I -->
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="40"/>
+
+
+</p>
+
 
 <h3>🗄️ Databases</h3>
 <p>
